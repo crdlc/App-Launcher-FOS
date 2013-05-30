@@ -17,7 +17,7 @@ Configuration
     "spinner_path": "launcher/spinner.gif",
     "styles_path": "launcher/launcher.css"
   }
-}`
+}
 ```
 
 * index.html: (touch this file if you want to change the path to the launcher.json file)
