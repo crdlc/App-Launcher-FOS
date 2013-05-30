@@ -1,0 +1,9 @@
+{
+  "launch_path": "http://m.wikipedia.org",
+
+  "resources" : {
+    "splash_path": "launcher/splash.png",
+    "spinner_path": "launcher/spinner.gif",
+    "styles_path": "launcher/launcher.css"
+  }
+}
