@@ -6,7 +6,7 @@ This library implements a splash mechanism for FOS apps. This example is for Wik
 Configuration
 ======
 
-launcher/launcher.json:
+* launcher/launcher.json:
 
 ```js
 {
@@ -20,10 +20,14 @@ launcher/launcher.json:
 }`
 ```
 
-index.html: (touch this file if you want to change the path to launcher.json file)
+* index.html: (touch this file if you want to change the path to the launcher.json file)
 
 ```html
 <script type="text/javascript">
   var launcherConfigurationFilePath = 'launcher/launcher.json';
 </script>
 ```
+
+Screenshots
+======
+![ScreenShot](http://img14.imageshack.us/img14/6110/wikipediao.png)
